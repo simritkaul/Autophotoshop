@@ -8,7 +8,7 @@ Using a MaskRCNN model and a DeepLabV3 model for instance segmentation, we can c
 
 ## DeepLabV3
 
--   Trained Model with Weights: [model.h5](<(https://drive.google.com/file/d/17QKxSIBFhyJoDps93-sCVHnVV6UWS1sG/view?usp=sharing)>)
+-   Trained Model with Weights: [model.h5](https://drive.google.com/file/d/17QKxSIBFhyJoDps93-sCVHnVV6UWS1sG/view?usp=sharing)
 
 ## How to use
 
